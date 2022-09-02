@@ -48,7 +48,12 @@ git commit -m "comentario"
 ```
 
 [ ] Git log retorna un } Poder ver historial de commits
+
 ```bash
 git log
 ```
+
+* Cambia el nombre de master -> main
+
+git branch -M main
 
