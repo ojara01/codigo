@@ -32,3 +32,23 @@ git init
 ```bash
 git status
 ```
+
+
+
+* Agrega los srchivos a la memoria de la pc
+
+```bash
+git add
+```
+
+* Crear 
+
+```bash
+git commit -m "comentario"
+```
+
+[ ] Git log retorna un } Poder ver historial de commits
+```bash
+git log
+```
+
